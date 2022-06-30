@@ -4,7 +4,7 @@ Design and implement a system that solves a known problem of trust in the COVID-
 
 # 2] Requirements Gathering
 ## 2.1] Vaccine Cold Chain
-![](Aspose.Words.c77615fd-1d94-4fd8-b1fb-19a9a7e30f6f.001.png)
+![](001.png)
 
 *Source: [Vaccine cold chain Q&A*](https://www.gavi.org/vaccineswork/vaccine-cold-chain-qa)*
 ## 2.2] System Actors
@@ -67,7 +67,7 @@ Design and implement a system that solves a known problem of trust in the COVID-
 1. Border Agent verifies vaccine passport
 
 ## 3.2] User Classifications
-![](Aspose.Words.c77615fd-1d94-4fd8-b1fb-19a9a7e30f6f.002.png)
+![](002.png)
 ## 3.3] Use Cases
 1. As an ***Issuer***, I can issue a signature representing a digital certificate for a manufacturer’s plant or storage facility
 1. As a ***Prover***, I can present a certificate/signature issued to me
@@ -86,9 +86,9 @@ Design and implement a system that solves a known problem of trust in the COVID-
 
 ## 3.4] High-level Diagram
 ### 3.4.1] 3-Tiered Architecture
-![](Aspose.Words.c77615fd-1d94-4fd8-b1fb-19a9a7e30f6f.003.png)
+![](003.png)
 ### 3.4.2] 2-Tiered “dApp” Architecture
-![](Aspose.Words.c77615fd-1d94-4fd8-b1fb-19a9a7e30f6f.004.png)
+![](004.png)
 
 ##
 
